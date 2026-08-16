@@ -1,0 +1,3 @@
+Sample size: 100,000 rows
+Valid records: 100,000
+Runtime seconds: 0.87

@@ -1,0 +1,8 @@
+pyspark==4.2.0
+pandas<3
+matplotlib
+jupyter
+ipykernel
+
+#Install everything with
+#pip install -r requiremnts.txt
