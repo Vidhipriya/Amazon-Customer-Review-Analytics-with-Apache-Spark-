@@ -69,7 +69,7 @@ IST3134/
 ### 1. Clone the repository
 
 ```powershell
-git clone <YOUR_GITHUB_REPOSITORY_URL>
+git clone https://github.com/Vidhipriya/Amazon-Customer-Review-Analytics-with-Apache-Spark-.git
 ```
 
 ### 2. Create and activate a virtual environment
